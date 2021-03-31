@@ -1,11 +1,9 @@
-<h1 align="center">Welcome to r6-coinflip 👋</h1>
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1-blue.svg?cacheSeconds=2592000" />
-</p>
+<h1 align="center">🎲 Welcome to R6-Coinflip 🎲</h1>
 
-> This is a calculator for the r6 coin flip
+![image](https://github.com/teobot/r6-coinflip/blob/main/src/img/websiteScreenshot.jpg?raw=true)
 
-### 🏠 [Homepage](https://teobot.github.io/r6-coinflip/)
+
+### 🏠 [Homepage Link](https://teobot.github.io/r6-coinflip/)
 
 ## Install
 
