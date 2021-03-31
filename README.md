@@ -13,14 +13,17 @@
 npm install
 ```
 
-## Usage
+## Local Development
 
 ```sh
 yarn start
 ```
 
-## Resources
-- 
+## Deployment to github pages
+
+```sh
+yarn run deploy
+```
 
 ## Author
 
