@@ -1,0 +1,80 @@
+           
+                 {/* 
+      <Container style={{ paddingTop: window.innerWidth / 4.75 }}>
+        <Grid stackable>
+          <Grid.Row columns="equal">
+            <Grid.Column>
+              <Image centered src={coin} size="medium" />
+            </Grid.Column>
+            <Grid.Column>
+              <Segment.Group horizontal>
+                <Segment textAlign="center" basic>
+                  <Header as="h1">
+                    Odds <Divider hidden /> <sup>1</sup>&frasl;
+                    <sub>45456</sub>
+                  </Header>
+                </Segment>
+                <Segment textAlign="center" basic>
+                  <Header as="h1">
+                    Chance <Divider hidden /> 0.000004%
+                  </Header>
+                </Segment>
+              </Segment.Group>
+
+              <Segment.Group horizontal>
+                <Segment textAlign="center" basic>
+                  <Header as="h1">
+                    Rounds <Divider hidden /> 10
+                  </Header>
+                </Segment>
+                <Segment textAlign="center" basic>
+                  <Header as="h1">
+                    Score <Divider hidden /> "Just Unlucky"
+                  </Header>
+                </Segment>
+              </Segment.Group>
+            </Grid.Column>
+          </Grid.Row>
+        </Grid>
+      </Container> */}
+           
+           
+            <Grid stackable>
+              <Grid.Row columns="equal">
+                <Grid.Column>
+                  <Image centered src={coin} size="medium" />
+                </Grid.Column>
+                <Grid.Column width={12}>
+                  <Segment
+                    raised
+                    style={{ backgroundColor: "#212121", height: "100%" }}
+                    inverted
+                  >
+
+
+                    
+                    <Grid>
+                      <Grid.Row columns="equal" stretched padded>
+                        <Grid.Column>
+                          <Segment>1/2</Segment>
+                        </Grid.Column>
+                        <Grid.Column>
+                          <Segment>2/2</Segment>
+                        </Grid.Column>
+                      </Grid.Row>
+                      <Grid.Row columns="equal" stretched padded>
+                        <Grid.Column>
+                          <Segment>1/2</Segment>
+                        </Grid.Column>
+                        <Grid.Column>
+                          <Segment>2/2</Segment>
+                        </Grid.Column>
+                      </Grid.Row>
+                    </Grid>
+
+
+
+                  </Segment>
+                </Grid.Column>
+              </Grid.Row>
+            </Grid>
