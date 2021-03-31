@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/r6-coinflip/static/css/main.0d2f937b.chunk.css",
+    "main.js": "/r6-coinflip/static/js/main.6c4809c1.chunk.js",
+    "main.js.map": "/r6-coinflip/static/js/main.6c4809c1.chunk.js.map",
+    "runtime-main.js": "/r6-coinflip/static/js/runtime-main.db2dcd4d.js",
+    "runtime-main.js.map": "/r6-coinflip/static/js/runtime-main.db2dcd4d.js.map",
+    "static/css/2.de6d3680.chunk.css": "/r6-coinflip/static/css/2.de6d3680.chunk.css",
+    "static/js/2.905dbee7.chunk.js": "/r6-coinflip/static/js/2.905dbee7.chunk.js",
+    "static/js/2.905dbee7.chunk.js.map": "/r6-coinflip/static/js/2.905dbee7.chunk.js.map",
+    "index.html": "/r6-coinflip/index.html",
+    "static/css/2.de6d3680.chunk.css.map": "/r6-coinflip/static/css/2.de6d3680.chunk.css.map",
+    "static/css/main.0d2f937b.chunk.css.map": "/r6-coinflip/static/css/main.0d2f937b.chunk.css.map",
+    "static/js/2.905dbee7.chunk.js.LICENSE.txt": "/r6-coinflip/static/js/2.905dbee7.chunk.js.LICENSE.txt",
+    "static/media/banner.a5723d17.jpg": "/r6-coinflip/static/media/banner.a5723d17.jpg",
+    "static/media/semantic.min.css": "/r6-coinflip/static/media/outline-icons.ddae9b1b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db2dcd4d.js",
+    "static/css/2.de6d3680.chunk.css",
+    "static/js/2.905dbee7.chunk.js",
+    "static/css/main.0d2f937b.chunk.css",
+    "static/js/main.6c4809c1.chunk.js"
+  ]
+}
